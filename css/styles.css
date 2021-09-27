@@ -1,0 +1,538 @@
+/*------Hellowebhelp.com-------*/
+
+
+.nav-link{
+   color: #1F1534;
+   font-size: 14px;
+   line-height: 23px;
+   font-weight: 600;
+   
+}
+.form_ground_jhd{
+   position: relative;
+   width: 100%;
+   padding-top: 2rem;
+   padding-bottom: 10px;
+   background-color: transparent;
+}
+.apply_title_ground{
+   text-align: center;
+   font-size: 30px;
+   color: #2F80ED;
+   font-family: 'Mulish', sans-serif;
+   font-weight: bold;
+}
+.vector_control{
+   position: absolute; top: 50px;
+   width: 50px;
+   height: auto;
+}
+/*--LEFT PART----*/
+.option_left_title{
+   padding-top: 20px;
+   font-size: 41px;
+   color: #000000;
+   line-height: 56px;
+   font-weight: bold;
+}
+.option_left_dec{
+   padding-top: 15px;
+   font-style: normal;
+   color: #333333;
+   font-weight: 300;
+}
+.buttton_ground_jd{
+   width: 100%;
+   padding-top: 20px;
+   padding-bottom: 3px;
+}
+.apply_button_hdi{
+   background-color: #458FF6;
+   color: white;
+   border-radius: 55px;
+   padding: 7px; padding-left: 20px; padding-right: 20px;
+   font-size: 15px;
+   font-weight: bold;
+}
+.apply_button_hdi:hover{color: #FF85C4;}
+
+/*----RIGHT PART----*/
+.option_right_ground_udo{
+   position: relative;
+   width: 100%;
+   background-color: transparent;
+   padding-top: 20px;
+   margin-top: 10px;
+
+}
+.option_btn_ground_gpo{
+   width: 220.45px;
+   min-height: 220.39px;
+   float: left;
+   cursor: pointer;
+   background: #FFFFFF;
+   margin-right: 15px;
+   margin-bottom: 15px;
+  /* drop shadow */
+  box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+  border-radius: 20px;
+}
+
+.option_btn_ground_gpo:hover{
+   transform: scale(1.4);
+   /*border: solid 1px #2F80ED ;*/
+}
+.option_btn_padd_sp{
+   padding: 20px;
+}
+.option_btn_padd_sp_query{
+   opacity: 0.1 ;
+   
+ }
+.opacity_not{opacity: 100%;}
+
+
+
+
+
+.option_btn_logo_ground{
+   text-align: left;
+   width: 100%;
+   padding-top: 7px;
+   padding-bottom: 7px;
+   background-color: transparent;
+}
+.option_btn_logo_sizing{
+   width: 40px; height: auto;
+}
+.logo_option_btn_logo_sizing{
+   width: 200px; height: auto;
+   padding-top:20px;
+}
+.myoption_btn_logo_sizing{
+   width: 90px; height: auto;
+}
+.sm_myoption_btn_logo_sizing{
+   width: 70px; height: auto;
+}
+.sm_myoption_btn_ground:hover{
+   transform: scale(1.6);
+}
+.option_btn_title_jhd{
+   padding-top: 8px; padding-bottom: 8px;
+   width: 100%;
+   font-weight: bold;
+   color: #000000;
+   font-size: 17px;
+}
+.option_btn_dec_yp{
+   width: 100%;
+   font-weight: 200;
+   color: #333333;
+   font-size: 12px;
+}
+
+/*--agin sub option---*/
+.sub_option_1st_1,
+.sub_option_1st_2,
+.sub_option_1st_3,
+.sub_option_1st_4,
+.sub_option_1st_5,
+.sub_option_1st_6{display: none;}
+
+
+.sub_option_2nd_1,
+.sub_option_2nd_2,
+.sub_option_2nd_3,
+.sub_option_2nd_4,
+.sub_option_2nd_5,
+.sub_option_2nd_6,
+.sub_option_2nd_7,
+.sub_option_2nd_8,
+.sub_option_2nd_9,
+.sub_option_2nd_10,
+.sub_option_2nd_11,
+.sub_option_2nd_12,
+.sub_option_2nd_13,
+.sub_option_2nd_14,
+.sub_option_2nd_15,
+.sub_option_2nd_16,
+.sub_option_2nd_17,
+.sub_option_2nd_18,
+.sub_option_2nd_19,
+.sub_option_2nd_20,
+.sub_option_2nd_21,
+.sub_option_2nd_22,
+.sub_option_2nd_23,
+.sub_option_2nd_24{display: none;}
+
+
+.sub_option_1st_1_yp,
+.sub_option_2st_2_yp{display: none;}
+
+.sub_option_ground_jsd{
+   width: 100%;
+}
+.sub_option_btn_ground{
+   width: 155.45px;
+   min-height: 120.39px;
+   display: inline-block;
+   cursor: pointer;
+   background: #FFFFFF;
+   margin-right: 15px;
+   margin-bottom: 15px;
+  /* drop shadow */
+  box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+  border-radius: 20px;
+}
+.sub_option_btn_ground:hover{
+   transform: scale(1.6);
+}
+
+.sub_option_btn_2nd_ground{
+   width: 120.45px;
+   min-height: 120.39px;
+   display: inline-block;
+   cursor: pointer;
+   background: #FFFFFF;
+   margin-right: 15px;
+   margin-bottom: 15px;
+  /* drop shadow */
+  box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+  border-radius: 20px;
+}
+.sub_option_btn_2nd_ground:hover{
+   transform: scale(2.1);
+}
+
+.sub_option_btn_padd_sp{
+   padding: 10px;
+}
+.sub_option_btn_logo_ground{
+   text-align: left;
+   width: 100%;
+   padding-top: 7px;
+   padding-bottom: 7px;
+   background-color: transparent;
+}
+.sub_option_btn_logo_sizing{
+   width: 20px; height: auto;
+}
+.sub_option_btn_title_jhd{
+   padding-top: 4px; padding-bottom: 4px;
+   width: 100%;
+   font-weight: bold;
+   color: #000000;
+   font-size: 10px;
+}
+.med_sub_option_btn_dec_yp{
+   width: 100%;
+   font-weight: 200;
+   color: #333333;
+   font-size: 12px;
+}
+.sub_option_btn_dec_yp{
+   width: 100%;
+   font-weight: 200;
+   color: #333333;
+   font-size: 8px;
+}
+
+/*----END-----*/
+.sub_healthcare_about_ground{
+   display: block;
+   width: 100%;
+   background-color: transparent;
+   padding-bottom: 10px;
+}
+.sub_healthcare_about_img_sizing{
+   width: 100%;
+   height: auto;
+}
+.sub_healthcare_about_title{
+   padding-top: 20px;
+   font-size: 21px;
+   color: #000000;
+   line-height: 56px;
+   font-weight: bold;
+}
+.padding_idkp{padding-top: 3rem;}
+.book_appointment_btn_ground{
+   padding: 9px;
+   padding-left: 30px; padding-right: 30px;
+   background: linear-gradient(134.47deg, #FF85C4 -26.79%, #BF4A81 230.75%);
+   border-radius: 20px;
+   color: white;
+   font-weight: 600;
+}
+.book_appointment_btn_ground:hover{color: rgb(243, 243, 243);}
+.button_border_dj{
+   border-bottom: 2px solid #636363;
+   width: 100px;
+}
+.sub_healthcare_about_ground{display: none;}
+
+
+/*----======================
+healthcare appointment
+======================-----*/
+.healthcare_appointment_form_ground{
+   width: 100%;
+   position: relative;
+   padding-top: 3.500rem; padding-bottom: 10px;
+   background-color: transparent;
+}
+.form_box_dpo_ground{
+   width: 100%;
+}
+.sub_title_ipu{
+   padding-top: 0px;
+    font-size: 16px;
+    color: #000000;
+    line-height: 56px;
+    font-weight: bold;
+}
+.fild_dja{
+   width: 100%;
+   
+}
+.fild_dja > b{
+   display: block;
+   padding-top: 15px;
+   width: 100%;
+   color:#4F4F4F;
+   font-size: 12px;
+}
+.text_fild_8d{
+   border: 0;
+   background: rgba(107, 119, 154, 0.05);
+   border-radius: 10px;
+   padding: 10px 7px;
+   padding-left: 6px;
+}
+.text_fild_8d:focus {
+   outline: 0;
+   color:#868686; 
+   font-weight: 600;
+ }
+ .text_fild_8d::placeholder {color:#868686; font-weight: 600; font-size: 14px;}
+
+ .textarea_fild_iu{
+    height: 150px;
+    width: 100%;
+    border: 0;
+   background: rgba(107, 119, 154, 0.05);
+   border-radius: 10px;
+   padding: 10px 7px;
+   padding-left: 6px;
+ }
+ .textarea_fild_iu:focus {
+   outline: 0;
+   color:#868686; 
+   font-weight: 600;
+ }
+ .date_ymd{
+    width: 100%;
+    padding-top: 8px; padding-bottom: 8px;
+    color:#868686; font-weight: 600; font-size: 14px;
+    border: solid 1px #868686;
+    border-radius: 3px;
+    
+ }
+ .position_ys{margin-top: 2rem;}
+ .position_ys b{
+   display: block;
+   padding-top: 1px;
+   width: 100%;
+   color:#4F4F4F;
+   font-size: 13px;
+
+   }
+ .pos_hgs{
+    padding-top: 50%;
+ }
+
+ .submit_hpo{
+    margin-top: 12px;
+    padding: 8px; padding-left: 25px; padding-right: 25px;
+    background: linear-gradient(134.47deg, #FF85C4 -26.79%, #BF4A81 230.75%);
+    border-radius: 20px;
+    color: white;
+    font-weight: 700;
+ }
+ .submit_hpo:hover{ color: rgb(247, 247, 247);}
+ .healthcare_appointment_form_ground{display: none;}
+ .closr_dn{
+    position: absolute;
+    right: 10px;
+    top:10px;
+    padding: 9px;
+    padding-bottom: 15px; padding-top: 15px;
+    background-color: #FF85C4;
+    font-weight: 600;
+    border-radius: 100%;
+    cursor: pointer;
+    -webkit-box-shadow: 0px 0px 6px 1px #7D7D7D; 
+   box-shadow: 0px 0px 6px 1px #7D7D7D;
+ }
+
+ .vp_hide{display: none;}
+ .vp_hide{
+   position: absolute;
+   right: 5%;
+   top:-50px;
+   padding: 9px;
+   padding-bottom: 15px; padding-top: 15px;
+   background-color: #FF85C4;
+   font-weight: 600;
+   border-radius: 100%;
+   cursor: pointer;
+   -webkit-box-shadow: 0px 0px 6px 1px #7D7D7D; 
+  box-shadow: 0px 0px 6px 1px #7D7D7D;
+  
+ }
+
+ /*=========================================
+
+2ND TEmplate
+
+ ===============================================*/
+
+ 
+ @media (min-width: 1800px) { .prrance_all_ground_container{width: 1600px; margin: auto;}}
+
+ .first_part_design_ground{
+    width:100%;
+    background-color: transparent;
+	
+ }
+ .title_ground_apo a{
+    color: #212529;
+ }
+ .title_ground_apo{
+     width: 100%;
+     padding-top: 4px; padding-bottom: 4px;
+}
+.title_ground_apo title1{
+   display: block;
+   font-size: 40px;
+   font-weight: 700;
+   color: #212529;
+}
+.title_ground_apo title2{
+   display: block;
+   font-size: 14px;
+   font-weight: 500;
+}
+.about_ground_gfps{
+   width: 100%;
+   margin-top: 0.500rem;
+  /*background-image: url('landingpage.png');*/
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+
+.btm_udmn{
+   width: 100%;
+   padding-top: 4rem; padding-bottom: 8px;
+   background-color: transparent;
+   text-align: left;
+}
+.pos_oih{
+   padding: 8px;
+   background-color: #be4a80;
+   color: white;
+   display: inline;
+   border-radius: 8px;
+   font-size: 17px;
+   font-weight: 600;
+   letter-spacing: 5px;
+}
+.title_xps{
+   width: 100%;
+   padding-top: 15px; padding-bottom: 5px;
+   font-size: 45px;
+   font-weight: 800;
+   line-height: 52px;
+   color:#000;
+   font-family: 'Inter', sans-serif;
+}
+.title_xps gap{
+   display: block;
+}
+.dec_rpku{
+   width: 100%;
+   padding-top: 15px; padding-bottom: 5px;
+   padding-right: 40%;
+   font-size: 18px;
+   font-weight: 600;
+   color: rgb(85, 85, 85);
+}
+.mydec_rpku{
+   width: 100%;
+   padding-top: 15px; padding-bottom: 5px;
+   padding-right: 40%;
+   font-size: 12px;
+   font-weight: 400;
+   color: rgb(85, 85, 85);
+}
+.menu_ground_udj{
+   width: 100%;
+   padding-top: 3rem; padding-bottom: 5px;
+   background-color: transparent;
+}
+.menu_ground_udj a{
+   display: inline-block;
+   color: rgb(37, 37, 37);
+   margin-right: 15px;
+   font-weight: 700;
+   font-size: 14px;
+}
+.menu_ground_udj a:hover{color: #be4a80;}
+
+
+/*--------------*/
+.ground_position_gpf{
+   width: 100%;
+   height: 900px; /*------main height--------*/
+   background-color: transparent;
+   overflow: hidden;
+   
+}
+
+
+.left_transparent_ground{
+width: 0;
+height: 0;
+border-style: solid;
+border-width: 1300px 900px 0 0;
+border-color: #ffffff transparent transparent transparent;
+}
+.left_geound_content_dps{
+   position: absolute;
+   background-color: transparent;
+   top: 10px;
+   min-height: 500px;
+}
+.service_box_gright_ground{
+   width: 750px;
+   position: absolute; top: 30px; ;left: -100px;
+   padding: 10px;
+   min-height: 850px;
+   background-color: white;
+   border-radius: 10px;
+   border: solid 8px #be4a80 ;
+}
+.title_mpro{
+   width: 100%;
+   padding-top: 6px; padding-bottom: 10px;
+   font-size: 30px;
+   font-weight: bold;
+   text-align: center;
+}
+.fixed_sg{
+   position: fixed;
+   right: 5%;
+   top: 50px;
+   z-index: 999;
+}

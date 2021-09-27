@@ -1,0 +1,82 @@
+
+
+
+@media (max-width: 576px) {
+   .apply_title_ground {  font-size: 31px; }
+   .option_left_title {font-size: 20px;}
+   .about_ground_gfps {
+      width: 100%;
+      margin-top: 0.500rem;
+      background-image: url();
+  }
+  
+  
+} 
+
+@media (max-width: 768px) {
+   .option_right_ground_udo { text-align: center;}
+   .option_btn_logo_ground {text-align: center;}
+   .option_btn_ground_gpo{ float: none; display: inline-block;}
+   .pos_hgs{ padding-top: 10px;}
+   .ground_position_gpf {
+      width: 100%;
+      min-height: 750px;
+      overflow: unset !important;
+  }
+  .title_ground_apo title1 { color: #ffffff;}
+  .title_ground_apo title2{ color: #ffffff;}
+  .menu_ground_udj a {color: rgb(255, 255, 255);}
+  .service_box_gright_ground{
+   width: 100%;
+   text-align: center;
+   position: unset; top: 30px; ;left: -100px;
+   min-height: 700px;
+   background-color: white;
+   border-radius: 10px;
+   border: solid 8px #40B4E5 ;
+  }
+  .title_xps gap { display: inline-block;}
+  .left_geound_content_dps { min-height: 600px; position: unset; }
+  .left_transparent_ground { border-width: 0px;}
+  .title_xps { 
+     color: #40B4E5;
+     font-size: 29px;
+    line-height: normal;
+   }
+  .dec_rpku { color: rgb(255, 255, 255);}
+  .dec_rpku{ padding-right: 0px;}
+  .option_btn_logo_sizing{ background-image: url(../src/images/h_pink.png);}
+
+
+} 
+
+
+/* Mobile Layout: 1100px. */
+@media only screen and (min-width: 769px) and (max-width: 1100px) {
+   .option_btn_ground_gpo {  width: 150.45px; }
+   .about_ground_gfps { background-image: url(); }
+
+}
+
+/* Mobile Layout: 1300px. */
+@media only screen and (min-width: 769px) and (max-width: 1300px) {
+   .service_box_gright_ground {
+      width: 100%;
+      position: unset;
+      top: 30px;
+      text-align: center;
+      left: -100px;
+      padding: 10px;
+      min-height: 900px;
+      background-color: white;
+      border-radius: 10px;
+      border: solid 8px #40B4E5;
+  }
+  .ground_position_gpf {
+   width: 100%;
+   min-height: 750px;
+   overflow: hidden;
+  }
+
+}
+
